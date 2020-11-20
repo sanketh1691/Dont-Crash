@@ -1,7 +1,6 @@
 # Don't Crash : Just stop with style
 
-![Image of a Car] 
-(https://github.com/sanketh1691/Dont-Crash/blob/main/Don't.jpg)
+![Image of a Car](Don't.jpg)
 
 ### Problem Statement
 
