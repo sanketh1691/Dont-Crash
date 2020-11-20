@@ -1,30 +1,6 @@
-## Welcome to GitHub Pages
+### Problem Statement
 
-You can use the [editor on GitHub](https://github.com/sanketh1691/Dont-Crash/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+The goal of this project is to build an agent to perform autonomous driving in a simulated environment. Autonomous driving is an important area of research as it can make roads safer  by helping to reduce the number of avoidable accidents caused by human error in driving[1]. It can also allow those with disabilities or senior citizens to be able to travel independently and safely. Simulation is a key to self-driving research, because we can test customized situations without facing real-world consequences. For our project, we have been using AirSim [2], a simulation environment created for autonomous driving research. We would like to test various objectives, such as longest distance without crashing, longest time without crashing, smooth driving, speed, interacting with moving pedestrians, cars. We want to build on AirSim’s framework by employing Computer Vision algorithms for perception and training a Reinforcement Learning agent to perceive and act in our simulation. Furthermore, we wish to compare the agent’s performance when trained on Reinforcement learning and Imitation learning.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
