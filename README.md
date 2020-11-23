@@ -11,7 +11,7 @@ The goal of this project is to build an agent to perform autonomous driving in a
 #### Team:
 * [Abhilash Karpurapu](https://www.linkedin.com/in/abhilash-karpurapu-5b7275131/)
 * [Abhivineet Veeraghanta](https://www.linkedin.com/in/abhivineet/)
-* [Haripriya Dhamarla](https://www.linkedin.com/in/haripriya-dharmala/)
+* [Haripriya Dharmala](https://www.linkedin.com/in/haripriya-dharmala/)
 * [Jaimin Patel](https://www.linkedin.com/in/jaimindpatel/)
 * [Naga Sanketh Vysyaraju](https://www.linkedin.com/in/naga-sanketh-vysyaraju/)
 * [Shreya Kunchakuri](https://www.linkedin.com/in/shreya-kunchakuri-743662125/)
